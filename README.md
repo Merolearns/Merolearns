@@ -8,9 +8,9 @@ I turn messy data into decisions. CS grad from Cal State Fullerton, previously a
 ### Featured projects
 | Project | What it is |
 |---|---|
-| [insightboard](https://github.com/Merolearns/insightboard) | Full-stack analytics dashboard — upload a CSV, profile it, build charts, save dashboards |
-| [churn-predictor](https://github.com/Merolearns/churn-predictor) | End-to-end ML: telecom churn from EDA and feature engineering to a prediction API |
 | [docu-ask](https://github.com/Merolearns/docu-ask) | RAG-style Q&A over your own documents |
+| [churn-predictor](https://github.com/Merolearns/churn-predictor) | End-to-end ML: telecom churn from EDA and feature engineering to a prediction API |
+| [insightboard](https://github.com/Merolearns/insightboard) | Full-stack analytics dashboard — upload a CSV, profile it, build charts, save dashboards |
 | [sql-practice-db](https://github.com/Merolearns/sql-practice-db) | 40 progressive SQL queries on a sample company database |
 | [csv-doctor](https://github.com/Merolearns/csv-doctor) | Data-quality profiler and cleaner for messy CSVs |
 | [neon-drift](https://github.com/Merolearns/neon-drift) | Neon arcade shooter in pygame — art and audio generated in code |
