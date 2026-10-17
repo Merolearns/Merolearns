@@ -49,7 +49,7 @@ I turn messy data into decisions. CS grad from Cal State Fullerton, previously a
 
 
 
-📬 **Get in touch:** [LinkedIn](https://www.linkedin.com/in/mero-mahmoud-804a70330) · Merojob11103@gmail.com
+📫 **Get in touch:** [LinkedIn](https://www.linkedin.com/in/mero-mahmoud-804a70330) · Merojob11103@gmail.com
 
 
 
@@ -58,6 +58,22 @@ I turn messy data into decisions. CS grad from Cal State Fullerton, previously a
 
 
 *If a project looks interesting, check its README — each one documents what it does, how to run it, and what I'd improve next.*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
