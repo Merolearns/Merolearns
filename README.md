@@ -19,6 +19,7 @@ I turn messy data into decisions. CS grad from Cal State Fullerton, previously a
 - **AI Driven Development Lifecycle Foundations** — Amazon Web Services (Oct 2026) · knowledge badge, assessment 95%
 - **Databricks Accredited Platform Administrator** — Databricks (Oct 2026) · accreditation, exam 88/100
 - **AWS Databricks Platform Architect** — Databricks (Oct 2026) · accreditation, exam 200/200
+- **GCP Databricks Platform Architect** — Databricks (Oct 2026) · accreditation, exam 191.7/200
 
 
 
