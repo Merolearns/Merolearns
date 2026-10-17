@@ -30,6 +30,7 @@ I turn messy data into decisions. CS grad from Cal State Fullerton, previously a
 - **Operationalize AI responsibly with Azure AI Foundry** — Microsoft Learn (Oct 2026) · learning path trophy, 3/3 modules
 - **Explore analytics data stores in Microsoft Fabric** — Microsoft Learn (Oct 2026) · learning path trophy, 5/5 modules
 - **AI concepts for developers and technology professionals** — Microsoft Learn (Oct 2026) · learning path trophy, 7/7 modules
+- **Implement a data science and machine learning solution for AI in Microsoft Fabric** — Microsoft Learn (Oct 2026) · learning path trophy, 6/6 modules
 
 
 
@@ -47,15 +48,15 @@ I turn messy data into decisions. CS grad from Cal State Fullerton, previously a
 
 ### Currently
 - Open to data analyst, data engineer, and AI engineer roles
-- Building in public — everything here is written and tested by hand
+- Building in public – everything here is written and tested by hand
 
 
-
-📫 **Get in touch:** [LinkedIn](https://www.linkedin.com/in/mero-mahmoud-804a70330) · Merojob11103@gmail.com
+📫**Get in touch:**[LinkedIn](https://www.linkedin.com/in/mero-mahmoud-804a70330)· Merojob11103@gmail.com
 
 
 
 ---
+
 
 
 
