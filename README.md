@@ -26,6 +26,7 @@ I turn messy data into decisions. CS grad from Cal State Fullerton, previously a
 - **Create machine learning models** — Microsoft Learn (Oct 2026) · learning path trophy, 6/6 modules
 
 
+
 ### Featured projects
 | Project | What it is |
 |---|---|
