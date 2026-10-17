@@ -28,6 +28,7 @@ I turn messy data into decisions. CS grad from Cal State Fullerton, previously a
 - **Operationalize machine learning models (MLOps)** — Microsoft Learn (Oct 2026) · learning path trophy, 7/7 modules
 - **Ingest data with Microsoft Fabric** — Microsoft Learn (Oct 2026) · learning path trophy, 4/4 modules
 - **Operationalize AI responsibly with Azure AI Foundry** — Microsoft Learn (Oct 2026) · learning path trophy, 3/3 modules
+- **Explore analytics data stores in Microsoft Fabric** — Microsoft Learn (Oct 2026) · learning path trophy, 5/5 modules
 
 
 
