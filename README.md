@@ -48,15 +48,15 @@ I turn messy data into decisions. CS grad from Cal State Fullerton, previously a
 
 ### Currently
 - Open to data analyst, data engineer, and AI engineer roles
-- Building in public – everything here is written and tested by hand
+- Building in public — everything here is written and tested by hand
 
 
-📫**Get in touch:**[LinkedIn](https://www.linkedin.com/in/mero-mahmoud-804a70330)· Merojob11103@gmail.com
+
+📫 **Get in touch:** [LinkedIn](https://www.linkedin.com/in/mero-mahmoud-804a70330) · Merojob11103@gmail.com
 
 
 
 ---
-
 
 
 
