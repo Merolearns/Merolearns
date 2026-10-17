@@ -3,14 +3,11 @@
 
 
 
-
 I turn messy data into decisions. CS grad from Cal State Fullerton, previously a Data Analyst Intern at Order and Go, where I worked with large-scale ordering and transaction data — cleaning it, analyzing it, and building dashboards people actually used.
 
 
 
-
 **What I work with:** Python · SQL · Flask · pandas · scikit-learn · SQLite · Git · REST APIs · Google Gemini API
-
 
 
 
@@ -24,7 +21,7 @@ I turn messy data into decisions. CS grad from Cal State Fullerton, previously a
 - **LLM Post Training: Instruction Tuning (Fundamentals)** — Hugging Face (Oct 2026) · Certificate of Achievement, smol course Unit 1
 - **LLM Post Training: Preference Alignment** — Hugging Face (Oct 2026) · Certificate of Achievement, Unit 3 quiz 80%
 - **LLM Post Training: Vision Language Models** — Hugging Face (Oct 2026) · Certificate of Achievement, Unit 4 quiz 80%
-
+- **Get started with AI applications and agents on Azure** — Microsoft Learn (Oct 2026) · learning path trophy, 7/7 modules
 
 
 
@@ -40,11 +37,9 @@ I turn messy data into decisions. CS grad from Cal State Fullerton, previously a
 
 
 
-
 ### Currently
 - Open to data analyst, data engineer, and AI engineer roles
 - Building in public — everything here is written and tested by hand
-
 
 
 
@@ -52,9 +47,7 @@ I turn messy data into decisions. CS grad from Cal State Fullerton, previously a
 
 
 
-
 ---
-
 
 
 
