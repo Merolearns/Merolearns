@@ -5,6 +5,10 @@ I turn messy data into decisions. CS grad from Cal State Fullerton, previously a
 
 **What I work with:** Python · SQL · Flask · pandas · scikit-learn · SQLite · Git · REST APIs · Google Gemini API
 
+### Certifications
+- **AWS Knowledge: Cloud Essentials** — Amazon Web Services (Oct 2026) · knowledge badge, assessment 96%
+- **AI Driven Development Lifecycle Foundations** — Amazon Web Services (Oct 2026) · knowledge badge, assessment 95%
+
 ### Featured projects
 | Project | What it is |
 |---|---|
