@@ -62,28 +62,26 @@ I turn messy data into decisions. CS grad from Cal State Fullerton, previously a
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 *If a project looks interesting, check its README — each one documents what it does, how to run it, and what I'd improve next.*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
