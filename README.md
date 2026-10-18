@@ -34,6 +34,8 @@ I turn messy data into decisions. CS grad from Cal State Fullerton, previously a
 - **Implement a Lakehouse with Microsoft Fabric** — Microsoft Learn (Oct 2026) · learning path trophy, 7/7 modules
 - **Develop generative AI apps in Azure** — Microsoft Learn (Oct 2026) · learning path trophy, 6/6 modules
 - **Prepare AI-ready analytics data in Microsoft Fabric** — Microsoft Learn (Oct 2026) · learning path trophy, 3/3 modules
+- **Operationalize generative AI applications (GenAIOps)** — Microsoft Learn (Oct 2026) · learning path trophy, 6/6 modules
+- **Develop AI agents on Azure** — Microsoft Learn (Oct 2026) · learning path trophy, 9/9 modules
 
 
 
@@ -64,7 +66,6 @@ I turn messy data into decisions. CS grad from Cal State Fullerton, previously a
 
 
 *If a project looks interesting, check its README — each one documents what it does, how to run it, and what I'd improve next.*
-
 
 
 
