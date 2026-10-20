@@ -44,6 +44,7 @@ I turn messy data into decisions. CS grad from Cal State Fullerton, previously a
 - **Implement Generative AI engineering with Azure Databricks** — Microsoft Learn (Oct 2026) · learning path trophy, 7/7 modules
 - **Extract insights from visual data on Azure** — Microsoft Learn (Oct 2026) · learning path trophy, 8/8 modules
 - **Design and transform analytics data in Microsoft Fabric** — Microsoft Learn (Oct 2026) · learning path trophy, 5/5 modules
+- **Secure and govern analytics data in Microsoft Fabric** — Microsoft Learn (Oct 2026) · learning path trophy, 3/3 modules
 
 
 
