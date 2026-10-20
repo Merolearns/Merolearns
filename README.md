@@ -38,6 +38,7 @@ I turn messy data into decisions. CS grad from Cal State Fullerton, previously a
 - **Develop AI agents on Azure** — Microsoft Learn (Oct 2026) · learning path trophy, 9/9 modules
 - **Implement a data warehouse with Microsoft Fabric** — Microsoft Learn (Oct 2026) · learning path trophy, 7/7 modules
 - **Implement Real-Time Intelligence with Microsoft Fabric** — Microsoft Learn (Oct 2026) · learning path trophy, 5/5 modules
+- **Develop natural language solutions in Azure** — Microsoft Learn (Oct 2026) · learning path trophy, 7/7 modules
 
 
 
