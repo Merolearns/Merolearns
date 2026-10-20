@@ -41,6 +41,7 @@ I turn messy data into decisions. CS grad from Cal State Fullerton, previously a
 - **Develop natural language solutions in Azure** — Microsoft Learn (Oct 2026) · learning path trophy, 7/7 modules
 - **Develop computer vision solutions with Microsoft Foundry** — Microsoft Learn (Oct 2026) · learning path trophy, 4/4 modules
 - **Build machine learning solutions using Azure Databricks** — Microsoft Learn (Oct 2026) · learning path trophy, 8/8 modules
+- **Implement Generative AI engineering with Azure Databricks** — Microsoft Learn (Oct 2026) · learning path trophy, 7/7 modules
 
 
 
