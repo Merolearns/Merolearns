@@ -23,7 +23,7 @@ I turn messy data into decisions. CS grad from Cal State Fullerton, previously a
 - Open to data analyst, data engineer, and AI engineer roles
 - Building in public — everything here is written and tested by hand
 
-📫 **Get in touch:** [LinkedIn](https://www.linkedin.com/in/mero-mahmoud-804a70330) · Merojob11103@gmail.com
+📫 **Get in touch:** [LinkedIn](https://www.linkedin.com/in/amr-mahmoud-804a70330) · Merojob11103@gmail.com
 
 ---
 *If a project looks interesting, check its README — each one documents what it does, how to run it, and what I'd improve next.*
